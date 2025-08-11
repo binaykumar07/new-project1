@@ -1,2 +1,2 @@
 # new-project1
-first an last
+first and last
